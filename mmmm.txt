@@ -1,0 +1,4 @@
+git clone url
+git add file name
+git commit -m "abc"
+git push 
